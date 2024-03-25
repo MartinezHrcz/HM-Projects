@@ -1,0 +1,6 @@
+Opel;Corsa;2004;1.2L;MSD-711
+Peugeot;308sw;2013;1.6L;ZKS-389
+Ford;Mondeo;2021;2.0L;PLT-202
+Smart;ForTwo;2002;0.7L;MKL-765
+Audi;S6;2003;1.6L;ZTL-122
+Opel;Signum;1999;1.6L;CVB-356
